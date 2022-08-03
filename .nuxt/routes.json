@@ -1,0 +1,306 @@
+[
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/en"
+  },
+  {
+    "name": "not-found___zh",
+    "path": "/not-found",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\not-found.vue",
+    "chunkName": "pages/not-found",
+    "url": "/not-found"
+  },
+  {
+    "name": "premium-active___zh",
+    "path": "/premium-active",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\premium-active.vue",
+    "chunkName": "pages/premium-active",
+    "url": "/premium-active"
+  },
+  {
+    "name": "not-found___en",
+    "path": "/en/not-found",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\not-found.vue",
+    "chunkName": "pages/not-found",
+    "url": "/en/not-found"
+  },
+  {
+    "name": "premium-active___en",
+    "path": "/en/premium-active",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\premium-active.vue",
+    "chunkName": "pages/premium-active",
+    "url": "/en/premium-active"
+  },
+  {
+    "name": "tools-ascii___zh",
+    "path": "/tools/ascii",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\ascii.vue",
+    "chunkName": "pages/tools/ascii",
+    "url": "/tools/ascii"
+  },
+  {
+    "name": "tools-base-series___zh",
+    "path": "/tools/base-series",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\base-series.vue",
+    "chunkName": "pages/tools/base-series",
+    "url": "/tools/base-series"
+  },
+  {
+    "name": "tools-brain-fuck___zh",
+    "path": "/tools/brain-fuck",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\brain-fuck.vue",
+    "chunkName": "pages/tools/brain-fuck",
+    "url": "/tools/brain-fuck"
+  },
+  {
+    "name": "tools-caesar-cipher___zh",
+    "path": "/tools/caesar-cipher",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\caesar-cipher.vue",
+    "chunkName": "pages/tools/caesar-cipher",
+    "url": "/tools/caesar-cipher"
+  },
+  {
+    "name": "tools-crc-checksum___zh",
+    "path": "/tools/crc-checksum",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\crc-checksum.vue",
+    "chunkName": "pages/tools/crc-checksum",
+    "url": "/tools/crc-checksum"
+  },
+  {
+    "name": "tools-jsfuck___zh",
+    "path": "/tools/jsfuck",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\jsfuck.vue",
+    "chunkName": "pages/tools/jsfuck",
+    "url": "/tools/jsfuck"
+  },
+  {
+    "name": "tools-message-digest___zh",
+    "path": "/tools/message-digest",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\message-digest.vue",
+    "chunkName": "pages/tools/message-digest",
+    "url": "/tools/message-digest"
+  },
+  {
+    "name": "tools-morse-code___zh",
+    "path": "/tools/morse-code",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\morse-code.vue",
+    "chunkName": "pages/tools/morse-code",
+    "url": "/tools/morse-code"
+  },
+  {
+    "name": "tools-pigpen___zh",
+    "path": "/tools/pigpen",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\pigpen.vue",
+    "chunkName": "pages/tools/pigpen",
+    "url": "/tools/pigpen"
+  },
+  {
+    "name": "tools-radix-conversion___zh",
+    "path": "/tools/radix-conversion",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\radix-conversion.vue",
+    "chunkName": "pages/tools/radix-conversion",
+    "url": "/tools/radix-conversion"
+  },
+  {
+    "name": "tools-rail-fence-cipher___zh",
+    "path": "/tools/rail-fence-cipher",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\rail-fence-cipher.vue",
+    "chunkName": "pages/tools/rail-fence-cipher",
+    "url": "/tools/rail-fence-cipher"
+  },
+  {
+    "name": "tools-rot-series___zh",
+    "path": "/tools/rot-series",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\rot-series.vue",
+    "chunkName": "pages/tools/rot-series",
+    "url": "/tools/rot-series"
+  },
+  {
+    "name": "tools-serial___zh",
+    "path": "/tools/serial",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\serial.vue",
+    "chunkName": "pages/tools/serial",
+    "url": "/tools/serial"
+  },
+  {
+    "name": "tools-temperature-conversion___zh",
+    "path": "/tools/temperature-conversion",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\temperature-conversion.vue",
+    "chunkName": "pages/tools/temperature-conversion",
+    "url": "/tools/temperature-conversion"
+  },
+  {
+    "name": "tools-tyre-param-tool___zh",
+    "path": "/tools/tyre-param-tool",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\tyre-param-tool.vue",
+    "chunkName": "pages/tools/tyre-param-tool",
+    "url": "/tools/tyre-param-tool"
+  },
+  {
+    "name": "tools-url-encoding___zh",
+    "path": "/tools/url-encoding",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\url-encoding.vue",
+    "chunkName": "pages/tools/url-encoding",
+    "url": "/tools/url-encoding"
+  },
+  {
+    "name": "tools-vigenereCipher___zh",
+    "path": "/tools/vigenereCipher",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\vigenereCipher.vue",
+    "chunkName": "pages/tools/vigenereCipher",
+    "url": "/tools/vigenereCipher"
+  },
+  {
+    "name": "tools-ascii___en",
+    "path": "/en/tools/ascii",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\ascii.vue",
+    "chunkName": "pages/tools/ascii",
+    "url": "/en/tools/ascii"
+  },
+  {
+    "name": "tools-base-series___en",
+    "path": "/en/tools/base-series",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\base-series.vue",
+    "chunkName": "pages/tools/base-series",
+    "url": "/en/tools/base-series"
+  },
+  {
+    "name": "tools-brain-fuck___en",
+    "path": "/en/tools/brain-fuck",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\brain-fuck.vue",
+    "chunkName": "pages/tools/brain-fuck",
+    "url": "/en/tools/brain-fuck"
+  },
+  {
+    "name": "tools-caesar-cipher___en",
+    "path": "/en/tools/caesar-cipher",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\caesar-cipher.vue",
+    "chunkName": "pages/tools/caesar-cipher",
+    "url": "/en/tools/caesar-cipher"
+  },
+  {
+    "name": "tools-crc-checksum___en",
+    "path": "/en/tools/crc-checksum",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\crc-checksum.vue",
+    "chunkName": "pages/tools/crc-checksum",
+    "url": "/en/tools/crc-checksum"
+  },
+  {
+    "name": "tools-jsfuck___en",
+    "path": "/en/tools/jsfuck",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\jsfuck.vue",
+    "chunkName": "pages/tools/jsfuck",
+    "url": "/en/tools/jsfuck"
+  },
+  {
+    "name": "tools-message-digest___en",
+    "path": "/en/tools/message-digest",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\message-digest.vue",
+    "chunkName": "pages/tools/message-digest",
+    "url": "/en/tools/message-digest"
+  },
+  {
+    "name": "tools-morse-code___en",
+    "path": "/en/tools/morse-code",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\morse-code.vue",
+    "chunkName": "pages/tools/morse-code",
+    "url": "/en/tools/morse-code"
+  },
+  {
+    "name": "tools-pigpen___en",
+    "path": "/en/tools/pigpen",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\pigpen.vue",
+    "chunkName": "pages/tools/pigpen",
+    "url": "/en/tools/pigpen"
+  },
+  {
+    "name": "tools-radix-conversion___en",
+    "path": "/en/tools/radix-conversion",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\radix-conversion.vue",
+    "chunkName": "pages/tools/radix-conversion",
+    "url": "/en/tools/radix-conversion"
+  },
+  {
+    "name": "tools-rail-fence-cipher___en",
+    "path": "/en/tools/rail-fence-cipher",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\rail-fence-cipher.vue",
+    "chunkName": "pages/tools/rail-fence-cipher",
+    "url": "/en/tools/rail-fence-cipher"
+  },
+  {
+    "name": "tools-rot-series___en",
+    "path": "/en/tools/rot-series",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\rot-series.vue",
+    "chunkName": "pages/tools/rot-series",
+    "url": "/en/tools/rot-series"
+  },
+  {
+    "name": "tools-serial___en",
+    "path": "/en/tools/serial",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\serial.vue",
+    "chunkName": "pages/tools/serial",
+    "url": "/en/tools/serial"
+  },
+  {
+    "name": "tools-temperature-conversion___en",
+    "path": "/en/tools/temperature-conversion",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\temperature-conversion.vue",
+    "chunkName": "pages/tools/temperature-conversion",
+    "url": "/en/tools/temperature-conversion"
+  },
+  {
+    "name": "tools-tyre-param-tool___en",
+    "path": "/en/tools/tyre-param-tool",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\tyre-param-tool.vue",
+    "chunkName": "pages/tools/tyre-param-tool",
+    "url": "/en/tools/tyre-param-tool"
+  },
+  {
+    "name": "tools-url-encoding___en",
+    "path": "/en/tools/url-encoding",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\url-encoding.vue",
+    "chunkName": "pages/tools/url-encoding",
+    "url": "/en/tools/url-encoding"
+  },
+  {
+    "name": "tools-vigenereCipher___en",
+    "path": "/en/tools/vigenereCipher",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tools\\\\vigenereCipher.vue",
+    "chunkName": "pages/tools/vigenereCipher",
+    "url": "/en/tools/vigenereCipher"
+  },
+  {
+    "name": "tag-tag___en",
+    "path": "/en/tag/:tag?",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tag\\\\_tag.vue",
+    "chunkName": "pages/tag/_tag"
+  },
+  {
+    "name": "tag-tag___zh",
+    "path": "/tag/:tag?",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\tag\\\\_tag.vue",
+    "chunkName": "pages/tag/_tag"
+  },
+  {
+    "name": "all___en",
+    "path": "/en/*",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\_.vue",
+    "chunkName": "pages/_"
+  },
+  {
+    "name": "index___zh",
+    "path": "/",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/"
+  },
+  {
+    "name": "all___zh",
+    "path": "/*",
+    "component": "C:\\\\Users\\\\12162\\\\Documents\\\\GitHub\\\\Lupital-Docs\\\\pages\\\\_.vue",
+    "chunkName": "pages/_"
+  }
+]
